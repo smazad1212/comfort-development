@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "label": "HOME",
+        "link": "/",
+        "icon": true
+    },
+    {
+        "id": "2",
+        "label": "SERVICES",
+        "link": "/services",
+        "icon": true
+    },
+    {
+        "id": "3",
+        "icon": true,
+        "label": "PROPERTIES",
+        "link": "/property"
+    }
+]

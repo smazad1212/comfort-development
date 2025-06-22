@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Comfort Shahjahan Manjil",
+    "detailsLink": "/property/comfort-shahjahan-manjil",
+    "address": "Road 3 04, Plot # 04, Kadirabad Housing, Mohammadpur, Dhaka",
+    "location": "Mohammadpur",
+    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "landArea": "5 Katha",
+    "floors": "9",
+    "flatSize": "1305, 1275 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img1.jpg"
+  },
+  {
+    "title": "Comfort Razia",
+    "detailsLink": "/property/comfort-razia",
+    "address": "Road # 01, Plot # 04, Mirpur - 02, Dhaka",
+    "location": "Mirpur",
+    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "landArea": "5.5 Katha, 2 Unit",
+    "floors": "8",
+    "flatSize": "1385, 1360 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img2.jpg"
+  },
+  {
+    "title": "Comfort Nurjahan Monjil",
+    "detailsLink": "/property/comfort-nurjahan-monjil",
+    "address": "208/4, Adorsho Road, Senpara Parbota, Dhaka",
+    "location": "Mirpur",
+    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "landArea": "12.89 Katha (2127 Decimal), 4 Unit",
+    "floors": "9",
+    "flatSize": "1350 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img3.jpg"
+  },
+  {
+    "title": "Comfort Green Valley",
+    "detailsLink": "/property/comfort-green-valley",
+    "address": "Green Valley, Sector 5, Uttara, Dhaka",
+    "location": "Uttara",
+    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "landArea": "10 Katha",
+    "floors": "12",
+    "flatSize": "1500, 1450 sq.ft.",
+    "type": "Apartment",
+    "status": "Ongoing",
+    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img1.jpg"
+  },
+  {
+    "title": "Comfort Blue Sky",
+    "detailsLink": "/property/comfort-blue-sky",
+    "address": "Blue Sky Avenue, Bashundhara, Dhaka",
+    "location": "Bashundhara",
+    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "landArea": "8 Katha",
+    "floors": "10",
+    "flatSize": "1400, 1350 sq.ft.",
+    "type": "Apartment",
+    "status": "Upcoming",
+    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img2.jpg"
+  }
+]
