@@ -2,6 +2,7 @@ import Breadcrum from '@/components/common/Breadcrum'
 import SelectComponent from '@/components/common/SelectComponent'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
 import React from 'react'
+import Link from 'next/link'
 
 const page = () => {
     return (
@@ -30,7 +31,7 @@ const page = () => {
                                             </div>
                                             <div className="content">
                                                 <span>To More Inquiry</span>
-                                                <h6><a href="tel:+990737621432">+990-737 621 432</a></h6>
+                                                <h6><Link href="tel:+990737621432">+990-737 621 432</Link></h6>
                                             </div>
                                         </li>
                                         <li className="single-contact">
@@ -45,7 +46,7 @@ const page = () => {
                                             </div>
                                             <div className="content">
                                                 <span>To Send Mail</span>
-                                                <h6><a href="mailto:example@gmail.com">example@gmail.com</a></h6>
+                                                <h6><Link href="mailto:example@gmail.com">example@gmail.com</Link></h6>
                                             </div>
                                         </li>
                                     </ul>

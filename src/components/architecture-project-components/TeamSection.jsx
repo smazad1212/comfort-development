@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 const TeamSection = () => {
   return (
@@ -61,12 +62,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img1.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">
@@ -80,12 +81,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img2.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">
@@ -99,12 +100,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img3.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">
@@ -118,12 +119,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img4.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">
@@ -137,12 +138,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img5.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">
@@ -156,12 +157,12 @@ const TeamSection = () => {
                           <div className="team-img">
                             <img src="assets/img/home6/team-img6.png" alt="" />
                             <div className="social-wrap">
-                              <a href="https://www.linkedin.com" className="social-area">
+                              <Link href="https://www.linkedin.com" className="social-area">
                                 <div className="icon">
                                   <span><i className="bx bxl-linkedin" /></span>
                                 </div>
                                 <span>LinkedIn</span>
-                              </a>
+                              </Link>
                             </div>
                           </div>
                           <div className="team-content">

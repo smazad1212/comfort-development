@@ -1,16 +1,17 @@
 "use client"
 import React from 'react'
 import CountUp from 'react-countup'
+import Link from 'next/link'
 
 const BannerSection = () => {
   return (
     <>
        <div className="home5-banner-section mb-130">
         <ul className="social-list">
-          <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook" /></a></li>
-          <li><a href="https://x.com/"><i className="bi bi-twitter-x" /></a></li>
-          <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt" /></a></li>
-          <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a></li>
+          <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook" /></Link></li>
+          <li><Link href="https://x.com/"><i className="bi bi-twitter-x" /></Link></li>
+          <li><Link href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt" /></Link></li>
+          <li><Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link></li>
         </ul>
         <div className="banner-area">
           <div className="swiper home5-banner-slider">

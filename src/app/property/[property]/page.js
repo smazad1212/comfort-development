@@ -8,7 +8,6 @@ import SwiperCore, {
   Pagination,
 } from "swiper";
 import Breadcrum from '@/components/common/Breadcrum'
-import Footer1 from '@/components/Footer/Footer1'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
 import Header from '@/components/header/Header'
 import useModalVideo from '@/utils/useModalVideo'

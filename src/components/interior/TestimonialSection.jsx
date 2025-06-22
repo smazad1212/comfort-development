@@ -131,20 +131,20 @@ const TestimonialSection = () => {
               </div>
               <div className="marquee">
                 <div className="marquee__group">
-                  <a href="#"><img src="assets/img/home1/partner-01.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-02.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-03.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-04.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-06.png" alt="" /></a>
+                  <Link href="#"><img src="assets/img/home1/partner-01.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-02.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-03.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-04.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-05.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-06.png" alt="" /></Link>
                 </div>
                 <div aria-hidden="true" className="marquee__group">
-                  <a href="#"><img src="assets/img/home1/partner-01.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-02.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-03.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-04.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-                  <a href="#"><img src="assets/img/home1/partner-06.png" alt="" /></a>
+                  <Link href="#"><img src="assets/img/home1/partner-01.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-02.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-03.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-04.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-05.png" alt="" /></Link>
+                  <Link href="#"><img src="assets/img/home1/partner-06.png" alt="" /></Link>
                 </div>
               </div>
             </div>

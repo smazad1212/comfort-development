@@ -130,7 +130,7 @@ const Banner = () => {
                                     <i className="corner br" />
                                     <i className="corner bl" />
                                 </Link>
-                                <a data-fancybox="video-player" onClick={openModal} className="video-area">
+                                <Link data-fancybox="video-player" onClick={openModal} className="video-area">
                                     <div className="icon">
                                         <svg className="video-circle" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="43px" viewBox="0 0 206 206" style={{ enableBackground: 'new 0 0 206 206' }} xmlSpace="preserve">
                                             <circle className="circle" strokeMiterlimit={10} cx={103} cy={103} r={100}>
@@ -144,7 +144,7 @@ const Banner = () => {
                                         </svg>
                                     </div>
                                     <h6>See Success Story</h6>
-                                </a>
+                                </Link>
                             </div>
                             <div className="scroll-down-area" id="scroll-btn">
                                 <div className="scroll-down-btn">
@@ -210,20 +210,20 @@ const Banner = () => {
                 </div>
                 <div className="marquee">
                   <div className="marquee__group">
-                    <a href="#"><img src="assets/img/home1/partner-01.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-02.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-03.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-04.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-06.png" alt="" /></a>
+                    <Link href="#"><img src="assets/img/home1/partner-01.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-02.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-03.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-04.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-05.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-06.png" alt="" /></Link>
                   </div>
                   <div aria-hidden="true" className="marquee__group">
-                    <a href="#"><img src="assets/img/home1/partner-01.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-02.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-03.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-04.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-                    <a href="#"><img src="assets/img/home1/partner-06.png" alt="" /></a>
+                    <Link href="#"><img src="assets/img/home1/partner-01.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-02.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-03.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-04.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-05.png" alt="" /></Link>
+                    <Link href="#"><img src="assets/img/home1/partner-06.png" alt="" /></Link>
                   </div>
                 </div>
               </div>

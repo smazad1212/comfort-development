@@ -38,12 +38,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img1.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">
@@ -57,12 +57,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img2.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">
@@ -76,12 +76,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img3.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">
@@ -95,12 +95,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img4.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">
@@ -114,12 +114,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img5.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">
@@ -133,12 +133,12 @@ const TeamSection = () => {
                     <div className="team-img">
                       <img src="assets/img/home2/home2-team-img6.png" alt="" />
                       <div className="overlay">
-                        <a href="#" className="social-area">
+                        <Link href="#" className="social-area">
                           <div className="icon">
                             <span><i className="bx bxl-linkedin" /></span>
                           </div>
                           <span>LinkedIn</span>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                     <div className="team-content">

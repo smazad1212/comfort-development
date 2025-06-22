@@ -18,28 +18,28 @@ const Footer = () => {
                         <p>Welcome to Comfort Development Ltd, where innovation meet our passion in a journey that started dream.</p>
                         <ul className="social-list">
                           <li>
-                            <a href="https://www.linkedin.com/">
+                            <Link href="https://www.linkedin.com/">
                               <i className="bi bi-linkedin" />
                               <span>LinkedIn</span>
-                            </a>
+                            </Link>
                           </li>
                           <li>
-                            <a href="https://www.facebook.com/">
+                            <Link href="https://www.facebook.com/">
                               <i className="bi bi-facebook" />
                               <span>Facebook</span>
-                            </a>
+                            </Link>
                           </li>
                           <li>
-                            <a href="https://twitter.com/">
+                            <Link href="https://twitter.com/">
                               <i className="bi bi-twitter-x" />
                               <span>Twitter</span>
-                            </a>
+                            </Link>
                           </li>
                           <li>
-                            <a href="https://www.instagram.com/">
+                            <Link href="https://www.instagram.com/">
                               <i className="bi bi-instagram" />
                               <span>Instagram</span>
-                            </a>
+                            </Link>
                           </li>
                         </ul>
                       </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                           </div>
                           <div className="content">
                             <span>CALL ANY TIME</span>
-                            <h6><a href="tel:29658718617">+8801777-777-777</a></h6>
+                            <h6><Link href="tel:29658718617">+8801777-777-777</Link></h6>
                           </div>
                         </div>
                         <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -73,7 +73,7 @@ const Footer = () => {
                           </div>
                           <div className="content">
                             <span>ADDRESS</span>
-                            <h6><a href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</a></h6>
+                            <h6><Link href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</Link></h6>
                           </div>
                         </div>
                         <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -89,7 +89,7 @@ const Footer = () => {
                           </div>
                           <div className="content">
                             <span>SAY HELLO</span>
-                            <h6><a href="mailto:info@example.com">info@example.com</a></h6>
+                            <h6><Link href="mailto:info@example.com">info@example.com</Link></h6>
                           </div>
                         </div>
                       </li>

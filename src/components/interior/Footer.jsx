@@ -131,28 +131,28 @@ const Footer = () => {
                                         <p>Welcome to Comfort Development Ltd, where innovation meet our passion in a journey that started dream.</p>
                                         <ul className="social-list">
                                             <li>
-                                                <a href="https://www.linkedin.com/">
+                                                <Link href="https://www.linkedin.com/">
                                                     <i className="bi bi-linkedin" />
                                                     <span>LinkedIn</span>
-                                                </a>
+                                                </Link>
                                             </li>
                                             <li>
-                                                <a href="https://www.facebook.com/">
+                                                <Link href="https://www.facebook.com/">
                                                     <i className="bi bi-facebook" />
                                                     <span>Facebook</span>
-                                                </a>
+                                                </Link>
                                             </li>
                                             <li>
-                                                <a href="https://twitter.com/">
+                                                <Link href="https://twitter.com/">
                                                     <i className="bi bi-twitter-x" />
                                                     <span>Twitter</span>
-                                                </a>
+                                                </Link>
                                             </li>
                                             <li>
-                                                <a href="https://www.instagram.com/">
+                                                <Link href="https://www.instagram.com/">
                                                     <i className="bi bi-instagram" />
                                                     <span>Instagram</span>
-                                                </a>
+                                                </Link>
                                             </li>
                                         </ul>
                                     </div>
@@ -169,7 +169,7 @@ const Footer = () => {
                                             </div>
                                             <div className="content">
                                                 <span>CALL ANY TIME</span>
-                                                <h6><a href="tel:29658718617">2-965-871-8617</a></h6>
+                                                <h6><Link href="tel:29658718617">2-965-871-8617</Link></h6>
                                             </div>
                                         </div>
                                         <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -186,7 +186,7 @@ const Footer = () => {
                                             </div>
                                             <div className="content">
                                                 <span>ADDRESS</span>
-                                                <h6><a href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</a></h6>
+                                                <h6><Link href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</Link></h6>
                                             </div>
                                         </div>
                                         <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -202,7 +202,7 @@ const Footer = () => {
                                             </div>
                                             <div className="content">
                                                 <span>SAY HELLO</span>
-                                                <h6><a href="mailto:info@example.com">info@example.com</a></h6>
+                                                <h6><Link href="mailto:info@example.com">info@example.com</Link></h6>
                                             </div>
                                         </div>
                                     </li>
@@ -220,11 +220,11 @@ const Footer = () => {
                                             <ul className="address-area">
                                                 <li className="single-address">
                                                     <span>NEW YORK</span>
-                                                    <a href="#">8204 Glen Ridge DriveEndicott, NY 13760</a>
+                                                    <Link href="#">8204 Glen Ridge DriveEndicott, NY 13760</Link>
                                                 </li>
                                                 <li className="single-address">
                                                     <span>WASHINGTON DC</span>
-                                                    <a href="#">8204 Glen Ridge DriveEndicott, NY 13760</a>
+                                                    <Link href="#">8204 Glen Ridge DriveEndicott, NY 13760</Link>
                                                 </li>
                                             </ul>
                                         </div>
@@ -256,7 +256,7 @@ const Footer = () => {
                                                     <li><Link href="/team">Meet Our Team</Link></li>
                                                     <li><Link href="/project">Our Project</Link></li>
                                                     <li><Link href="/blog">Blog &amp; Article</Link></li>
-                                                    <li><a href="#">Career</a></li>
+                                                    <li><Link href="#">Career</Link></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -274,9 +274,9 @@ const Footer = () => {
                             </div>
                             <div className="footer-bottom-right">
                                 <ul>
-                                    <li><a href="#">Support Policy</a></li>
-                                    <li><a href="#">Terms &amp; Conditions</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><Link href="#">Support Policy</Link></li>
+                                    <li><Link href="#">Terms &amp; Conditions</Link></li>
+                                    <li><Link href="#">Privacy Policy</Link></li>
                                 </ul>
                             </div>
                         </div>

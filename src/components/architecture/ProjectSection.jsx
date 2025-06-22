@@ -13,7 +13,7 @@ const ProjectSection = () => {
   };
 
   const renderProjectContent = (project) => (
-    <Link href={project.detailsLink} className="project-content-wrap">
+    <div className="project-content-wrap">
       <div className="project-content">
         <span>Project:</span>
         <h2><Link href={project.detailsLink}>{project.title}</Link></h2>
@@ -33,7 +33,7 @@ const ProjectSection = () => {
           </svg>
         </Link>
       </div>
-    </Link>
+    </div>
   );
 
   return (

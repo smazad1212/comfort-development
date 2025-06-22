@@ -7,6 +7,7 @@ import SwiperCore, {
     Navigation,
     Pagination,
 } from "swiper";
+import Link from 'next/link'
 SwiperCore.use([Autoplay, EffectFade, Navigation, Pagination]);
 
 const GallerySection = () => {
@@ -62,7 +63,7 @@ const GallerySection = () => {
                         <SwiperSlide className="swiper-slide">
                             <div className="single-gallery-img">
                                 <div className="icon-area">
-                                    <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
+                                    <Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link>
                                 </div>
                                 <img src="assets/img/home3/gallery-image1.jpg" alt="" />
                             </div>
@@ -70,7 +71,7 @@ const GallerySection = () => {
                         <SwiperSlide className="swiper-slide">
                             <div className="single-gallery-img">
                                 <div className="icon-area">
-                                    <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
+                                    <Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link>
                                 </div>
                                 <img src="assets/img/home3/gallery-image2.jpg" alt="" />
                             </div>
@@ -78,7 +79,7 @@ const GallerySection = () => {
                         <SwiperSlide className="swiper-slide">
                             <div className="single-gallery-img">
                                 <div className="icon-area">
-                                    <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
+                                    <Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link>
                                 </div>
                                 <img src="assets/img/home3/gallery-image3.jpg" alt="" />
                             </div>
@@ -86,7 +87,7 @@ const GallerySection = () => {
                         <SwiperSlide className="swiper-slide">
                             <div className="single-gallery-img">
                                 <div className="icon-area">
-                                    <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
+                                    <Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link>
                                 </div>
                                 <img src="assets/img/home3/gallery-image4.jpg" alt="" />
                             </div>
@@ -94,7 +95,7 @@ const GallerySection = () => {
                         <SwiperSlide className="swiper-slide">
                             <div className="single-gallery-img">
                                 <div className="icon-area">
-                                    <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
+                                    <Link href="https://www.instagram.com/"><i className="bx bxl-instagram" /></Link>
                                 </div>
                                 <img src="assets/img/home3/gallery-image5.jpg" alt="" />
                             </div>

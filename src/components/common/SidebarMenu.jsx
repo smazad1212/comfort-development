@@ -84,7 +84,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </div>
                                                 <div className="content">
                                                     <span>CALL ANY TIME</span>
-                                                    <h6><a href="tel:29658718617">2-965-871-8617</a></h6>
+                                                    <h6><Link href="tel:29658718617">2-965-871-8617</Link></h6>
                                                 </div>
                                             </div>
                                             <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -101,7 +101,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </div>
                                                 <div className="content">
                                                     <span>ADDRESS</span>
-                                                    <h6><a href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</a></h6>
+                                                    <h6><Link href="#">“Union Heights” Level-14, Plot-55-2, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205</Link></h6>
                                                 </div>
                                             </div>
                                             <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -117,7 +117,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </div>
                                                 <div className="content">
                                                     <span>SAY HELLO</span>
-                                                    <h6><a href="mailto:info@example.com">info@example.com</a></h6>
+                                                    <h6><Link href="mailto:info@example.com">info@example.com</Link></h6>
                                                 </div>
                                             </div>
                                         </li>
@@ -132,11 +132,11 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                     <ul className="address-list">
                                         <li className="single-address">
                                             <span>NEW YORK</span>
-                                            <a href="#">8204 Glen Ridge DriveEndicott, NY 13760</a>
+                                            <Link href="#">8204 Glen Ridge DriveEndicott, NY 13760</Link>
                                         </li>
                                         <li className="single-address">
                                             <span>WASHINGTON DC</span>
-                                            <a href="#">8204 Glen Ridge DriveEndicott, NY 13760</a>
+                                            <Link href="#">8204 Glen Ridge DriveEndicott, NY 13760</Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -259,7 +259,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                         <Link href="/about">About</Link>
                                     </li>
                                     <li>
-                                        <a href="#">Pages</a>
+                                        <Link href="#">Pages</Link>
                                         <span className={`dropdown-icon2 ${state.activeMenu === "pages" ? "active" : ""} `} onClick={() => collapseMenu("pages")}><i className={`bi ${state.activeMenu === "pages" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "pages" ? "active" : ""}`}>
                                             <li>
