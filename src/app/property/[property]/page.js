@@ -26,10 +26,6 @@ const PropertyDetails = ({ params }) => {
     (p) => p.detailsLink.toLowerCase() === `/property/${params.property}`.toLowerCase()
   );
 
-  if (!propertyData) {
-    return <div>Property not found</div>;
-  }
-
   const settings = useMemo(() => {
     return {
       slidesPerView: "auto",
@@ -70,7 +66,13 @@ const PropertyDetails = ({ params }) => {
       },
     };
   }, []);
+
   const { openModal, Modal } = useModalVideo();
+
+  // Handle the case where propertyData is not found
+  if (!propertyData) {
+    return <div>Property not found</div>;
+  }
 
   return (
     <>
