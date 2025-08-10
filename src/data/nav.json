@@ -7,8 +7,8 @@
     },
     {
         "id": "2",
-        "label": "SERVICES",
-        "link": "/services",
+        "label": "LAND OWNERS",
+        "link": "/land-owners",
         "icon": true
     },
     {

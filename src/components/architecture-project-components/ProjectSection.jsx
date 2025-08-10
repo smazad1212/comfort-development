@@ -1,6 +1,7 @@
 "use client"
 import Link from 'next/link'
 import React, { useEffect } from 'react'
+import Gallery from '@/components/common/Gallery'
 
 const ProjectSection = () => {
     
@@ -43,100 +44,7 @@ const ProjectSection = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="tab-content" id="nav-tabContent">
-                        <div className="tab-pane fade show active" id="nav-conceptual" role="tabpanel" aria-labelledby="nav-conceptual-tab">
-                            <div className="row gx-xxl-5 gx-xl-4 g-lg-3 g-4 mb-70">
-                                <div className="col-lg-3 col-md-4 col-sm-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img1.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Last Wave Tech</Link>
-                                            <h6><Link href="/project-details">Unveiling Iconic Identities</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 pt-80 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img2.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Zenfy</Link>
-                                            <h6><Link href="/project-details">Project Build Vision</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img3.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Axleo</Link>
-                                            <h6><Link href="/project-details">Dominating Auto Search</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 pt-80 wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img4.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Nexaq</Link>
-                                            <h6><Link href="/project-details">Blueprint to Reality</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img5.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Triprex</Link>
-                                            <h6><Link href="/project-details">Creating with Precision</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 pt-80 wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img6.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Softconic</Link>
-                                            <h6><Link href="/project-details">Crafting the Framework</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img7.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Tourio</Link>
-                                            <h6><Link href="/project-details">Build Master Plan</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6 pt-80 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                    <div className="project-info-flow-card">
-                                        <Link href="/project-details" className="info-flow-img">
-                                            <img src="https://vernex-next-js.vercel.app/assets/img/home6/project-img8.jpg" alt="" />
-                                        </Link>
-                                        <div className="info-flow-content">
-                                            <Link href="/project-details">Client: Probid</Link>
-                                            <h6><Link href="/project-details">Modern Build Concepts</Link></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <Gallery/>
                     <div className="row">
                         <div className="col-lg-12 d-flex justify-content-center">
                             <Link href="/project" className="primary-btn3 bounce_up">

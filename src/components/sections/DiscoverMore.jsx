@@ -20,14 +20,14 @@ const AboutSection = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="single-counter">
                 <div className="content bounce_up">
-                  <img src="assets/img/partners/archetype.png" alt="" />
+                  <img src="assets/img/partners/archetype.png" alt="archetype" />
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
               <div className="single-counter two">
                 <div className="content bounce_up">
-                  <img src="assets/img/partners/concept.jpeg" alt="" />
+                  <img src="assets/img/partners/onno-architects.png" alt="onno-architects" />
                 </div>
               </div>
             </div>
@@ -42,28 +42,30 @@ const AboutSection = () => {
             </div>
             <div className="marquee">
               <div className="marquee__group">
-                <span><img src="assets/img/vendors/1.png" alt="" /></span>
-                <span><img src="assets/img/vendors/2.png" alt="" /></span>
-                <span><img src="assets/img/vendors/3.png" alt="" /></span>
-                <span><img src="assets/img/vendors/4.png" alt="" /></span>
-                <span><img src="assets/img/vendors/5.png" alt="" /></span>
-                <span><img src="assets/img/vendors/6.png" alt="" /></span>
-                <span><img src="assets/img/vendors/7.png" alt="" /></span>
-                <span><img src="assets/img/vendors/8.png" alt="" /></span>
-                <span><img src="assets/img/vendors/9.png" alt="" /></span>
-                <span><img src="assets/img/vendors/10.png" alt="" /></span>
+                <span><img src="assets/img/vendors/1.png" alt="sheltech" /></span>
+                <span><img src="assets/img/vendors/2.png" alt="akij ceramics" /></span>
+                <span><img src="assets/img/vendors/3.png" alt="k" /></span>
+                <span><img src="assets/img/vendors/4.png" alt="brb" /></span>
+                <span><img src="assets/img/vendors/5.png" alt="shah cement" /></span>
+                <span><img src="assets/img/vendors/6.png" alt="hyundai" /></span>
+                <span><img src="assets/img/vendors/7.png" alt="bbs cables" /></span>
+                <span><img src="assets/img/vendors/8.png" alt="bsrm" /></span>
+                <span><img src="assets/img/vendors/9.png" alt="sharif" /></span>
+                <span><img src="assets/img/vendors/10.png" alt="energypac" /></span>
+                <span><img src="assets/img/vendors/11.png" alt="cbc tiles" /></span>
               </div>
               <div aria-hidden="true" className="marquee__group">
-                <span><img src="assets/img/vendors/1.png" alt="" /></span>
-                <span><img src="assets/img/vendors/2.png" alt="" /></span>
-                <span><img src="assets/img/vendors/3.png" alt="" /></span>
-                <span><img src="assets/img/vendors/4.png" alt="" /></span>
-                <span><img src="assets/img/vendors/5.png" alt="" /></span>
-                <span><img src="assets/img/vendors/6.png" alt="" /></span>
-                <span><img src="assets/img/vendors/7.png" alt="" /></span>
-                <span><img src="assets/img/vendors/8.png" alt="" /></span>
-                <span><img src="assets/img/vendors/9.png" alt="" /></span>
-                <span><img src="assets/img/vendors/10.png" alt="" /></span>
+                <span><img src="assets/img/vendors/1.png" alt="sheltech" /></span>
+                <span><img src="assets/img/vendors/2.png" alt="akij ceramics" /></span>
+                <span><img src="assets/img/vendors/3.png" alt="k" /></span>
+                <span><img src="assets/img/vendors/4.png" alt="brb" /></span>
+                <span><img src="assets/img/vendors/5.png" alt="shah cement" /></span>
+                <span><img src="assets/img/vendors/6.png" alt="hyundai" /></span>
+                <span><img src="assets/img/vendors/7.png" alt="bbs cables" /></span>
+                <span><img src="assets/img/vendors/8.png" alt="bsrm" /></span>
+                <span><img src="assets/img/vendors/9.png" alt="sharif" /></span>
+                <span><img src="assets/img/vendors/10.png" alt="energypac" /></span>
+                <span><img src="assets/img/vendors/11.png" alt="cbc tiles" /></span>
               </div>
             </div>
           </div>

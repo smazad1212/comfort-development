@@ -1,16 +1,71 @@
 [
   {
-    "title": "Comfort Shahjahan Manjil",
-    "detailsLink": "/property/comfort-shahjahan-manjil",
-    "address": "Road 3 04, Plot # 04, Kadirabad Housing, Mohammadpur, Dhaka",
-    "location": "Mohammadpur",
-    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+    "title": "Comfort Vision Emporium",
+    "detailsLink": "/property/comfort-vision-emporium",
+    "address": "Jolshiri Sector. 08, Road. 401, Plot. 48",
+    "location": "Jolshiri",
+    "mapLink": "https://www.google.com/maps/place/Jolshiri",
     "landArea": "5 Katha",
-    "floors": "9",
-    "flatSize": "1305, 1275 sq.ft.",
+    "floors": "-",
+    "flatSize": "2850 sq.ft.",
     "type": "Apartment",
-    "status": "Completed",
-    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img1.jpg"
+    "status": "Upcoming",
+    "completionDate": "2028",
+    "image": "/assets/img/properties/Vision Emporium/648X933/CDL Vision View 2.png",
+    "description": "Comfort Vision Emporium is our premium flagship project, showcasing our signature exposed brickwork alongside the introduction of elegant fair face design. Thoughtfully planned by our partners at Archetype, the layout applies smart, space optimizing solutions tailored for modern living. The project features abundant green spaces, landscaped gardens, and a beautifully designed rooftop with a dedicated BBQ zone and wooden deck blending aesthetics with functionality.",
+    "details": [
+      { "title": "Bedrooms", "value": 4 },
+      { "title": "Bathroom", "value": 5 },
+      { "title": "Balcony", "value": 3 },
+      { "title": "Kitchen", "value": 1 },
+      { "title": "Living Room", "value": 1 },
+      { "title": "Family Living", "value": 1 },
+      { "title": "Property Size", "value": "5 Katha" },
+      { "title": "Floor Size", "value": "2850 sq.ft." },
+      { "title": "Garages", "value": 9 },
+      { "title": "Year Of Built", "value": 2028 },
+      { "title": "Units Left", "value": 0 }
+    ],
+    "nearby": [
+      { "title": "Schools", "value": "BIT, Schools of Bashundhara" },
+      { "title": "Hospital", "value": "Jolshiri Hospital" },
+      { "title": "Market", "value": "Jolshiri Commercial Area" },
+      { "title": "MRT", "value": "Metro Rail station nearby" }
+    ]
+  },
+  {
+    "title": "Comfort RaSaft de’MUR",
+    "detailsLink": "/property/comfort-rasaft-demur",
+    "address": "Jolshiri Sector. 08, Road. 401, Plot. 48",
+    "location": "Jolshiri",
+    "mapLink": "https://www.google.com/maps/place/Jolshiri",
+    "landArea": "5 Katha",
+    "floors": "-",
+    "flatSize": "2850 sq.ft.",
+    "type": "Apartment",
+    "status": "Upcoming",
+    "completionDate": "2028",
+    "image": "/assets/img/properties/ReSaft/Comfort RaSaft de_MUR.png",
+    "description": "Comfort Vision Emporium is our premium flagship project, showcasing our signature exposed brickwork alongside the introduction of elegant fair face design. Thoughtfully planned by our partners at Archetype, the layout applies smart, space optimizing solutions tailored for modern living. The project features abundant green spaces, landscaped gardens, and a beautifully designed rooftop with a dedicated BBQ zone and wooden deck blending aesthetics with functionality.",
+    "details": [
+      { "title": "Bedrooms", "value": 4 },
+      { "title": "Bathroom", "value": 5 },
+      { "title": "Balcony", "value": 3 },
+      { "title": "Kitchen", "value": 1 },
+      { "title": "Living Room", "value": 1 },
+      { "title": "Family Living", "value": 1 },
+      { "title": "Property Size", "value": "5 Katha" },
+      { "title": "Floor Size", "value": "2850 sq.ft." },
+      { "title": "Garages", "value": 9 },
+      { "title": "Year Of Built", "value": 2028 },
+      { "title": "Units Left", "value": 0 }
+    ],
+    "nearby": [
+      { "title": "Schools", "value": "BIT, Schools of Bashundhara" },
+      { "title": "Hospital", "value": "Jolshiri Hospital" },
+      { "title": "Market", "value": "Jolshiri Commercial Area" },
+      { "title": "MRT", "value": "Metro Rail station nearby" }
+    ]
   },
   {
     "title": "Comfort Razia",
@@ -23,45 +78,347 @@
     "flatSize": "1385, 1360 sq.ft.",
     "type": "Apartment",
     "status": "Completed",
-    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img2.jpg"
+    "completionDate": "December 2016",
+    "image": "/assets/img/properties/Razia/Comfort-Razia-1-788x1024.jpg",
+    "description": "Designed by a dedicated team of architects and engineers, this property combines elegance, structural strength, and comfort. The secured grand entrance with decorative gate, lampposts, and stately lobby sets the tone for refined living. Each apartment is thoughtfully laid out for natural light, cross-ventilation, and privacy. Spacious bedrooms, stylish bathrooms, and a functional kitchen add everyday comfort. A high-speed, international-standard lift and generously designed staircases ensure ease of access. The living and dining spaces are perfect for family life and entertaining, while well-placed balconies offer a breath of fresh air with every view.",
+    "details": [
+      {
+        "title": "Bedrooms",
+        "value": 3
+      },
+      {
+        "title": "Bathroom",
+        "value": 3
+      },
+      {
+        "title": "Balcony",
+        "value": 2
+      },
+      {
+        "title": "Kitchen",
+        "value": 1
+      },
+      {
+        "title": "Living Room",
+        "value": 1
+      },
+      {
+        "title": "Property Size",
+        "value": "5.5 Katha"
+      },
+      {
+        "title": "Floor Size",
+        "value": "1385, 1360 sq.ft."
+      },
+      {
+        "title": "Garages",
+        "value": 10
+      },
+      {
+        "title": "Year Of Built",
+        "value": 2016
+      },
+      {
+        "title": "Units Left",
+        "value": 0
+      }
+    ],
+    "nearby": [
+      {
+        "title": "Schools",
+        "value": "Apple Tree International, Premier International"
+      },
+      {
+        "title": "Metro",
+        "value": "Mirpur Metro Rail"
+      },
+      {
+        "title": "Hospital",
+        "value": "Mirpur Holy Crescent Hospital"
+      },
+      {
+        "title": "Market",
+        "value": "Mirpur Shopping Center"
+      }
+    ]
+  },
+  {
+    "title": "Comfort Taniabir",
+    "detailsLink": "/property/comfort-taniabir",
+    "address": "Road # 04, Plot No # 19, Kaderabad Housing, Mohammadpur, Dhaka",
+    "location": "Mohammadpur",
+    "mapLink": "https://www.google.com/maps/place/Kaderabad+Housing,+Mohammadpur,+Dhaka",
+    "landArea": "4 Katha, 2 Unit",
+    "floors": "8",
+    "flatSize": "1100 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "completionDate": "July 2021",
+    "image": "/assets/img/properties/Taniabir/Comfort - Taniabir.jpg",
+    "description": "Comfort Taniabir is nestled in the heart of Mohammadpur’s Kaderabad area, offering the perfect blend of peaceful living and urban convenience. Thoughtfully designed as a compact yet elegant apartment complex, it provides all the essential amenities in a space sized to perfection. The project ensures ample natural light and ventilation, creating a refreshing environment for modern families. With a wide connecting road offering easy access to both Dhanmondi and central Mohammadpur, residents enjoy unmatched connectivity without sacrificing tranquility. Comfort Taniabir is ideal for those seeking smart, stylish living in a well-connected neighborhood.",
+    "details": [
+      {
+        "title": "Bedrooms",
+        "value": 3
+      },
+      {
+        "title": "Bathroom",
+        "value": 3
+      },
+      {
+        "title": "Balcony",
+        "value": 2
+      },
+      {
+        "title": "Kitchen",
+        "value": 1
+      },
+      {
+        "title": "Living Room",
+        "value": 1
+      },
+      {
+        "title": "Property Size",
+        "value": "5.5 Katha"
+      },
+      {
+        "title": "Floor Size",
+        "value": "1100 sq.ft."
+      },
+      {
+        "title": "Garages",
+        "value": 10
+      },
+      {
+        "title": "Year Of Built",
+        "value": 2021
+      },
+      {
+        "title": "Units Left",
+        "value": 0
+      }
+    ],
+    "nearby": [
+      {
+        "title": "Schools",
+        "value": "Mohammadpur Boys School"
+      },
+      {
+        "title": "Hospital",
+        "value": "Al Manar Hospital"
+      },
+      {
+        "title": "Market",
+        "value": "Krishi Market"
+      }
+    ]
+  },
+  {
+    "title": "Comfort Shahjahan Monjil",
+    "detailsLink": "/property/comfort-shahjahan-monjil",
+    "address": "Road 3 04, Plot # 04, Kadirabad Housing, Mohammadpur, Dhaka",
+    "location": "Mohammadpur",
+    "mapLink": "https://www.google.com/maps/place/Mohammadpur,+Dhaka",
+    "landArea": "5 Katha, 9th Storied Building",
+    "floors": "9",
+    "flatSize": "1305 & 1275 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "completionDate": "December 2018",
+    "image": "/assets/img/properties/Shahjahan Monjil/Comfort Shahjhan monzil.jpg",
+    "description": "Comfort Shahajahan Manzil, our third project in the vibrant Kaderabad area of Mohammadpur, builds on the success of Comfort Taniabir with a bold, modern design. Inspired by Feng Shui principles, the building is thoughtfully crafted to ensure abundant natural light and airflow across every floor. Each apartment is designed with family-centric standards in mind, blending functionality with comfort to suit the lifestyle of the local community. Located in a well-connected neighborhood with easy access to Dhanmondi and Mohammadpur, Comfort Shahajahan Manzil offers a contemporary living experience rooted in balance, harmony, and thoughtful detail.",
+    "details": [
+      {
+        "title": "Bedrooms",
+        "value": 3
+      },
+      {
+        "title": "Bathroom",
+        "value": 3
+      },
+      {
+        "title": "Balcony",
+        "value": 2
+      },
+      {
+        "title": "Kitchen",
+        "value": 1
+      },
+      {
+        "title": "Living Room",
+        "value": 1
+      },
+      {
+        "title": "Property Size",
+        "value": "5 Katha"
+      },
+      {
+        "title": "Floor Size",
+        "value": "1305 & 1275 sq.ft."
+      },
+      {
+        "title": "Garages",
+        "value": 8
+      },
+      {
+        "title": "Year Of Built",
+        "value": 2018
+      },
+      {
+        "title": "Units Left",
+        "value": 0
+      }
+    ],
+    "nearby": [
+      {
+        "title": "Schools",
+        "value": "Mohammadpur Boys School"
+      },
+      {
+        "title": "Hospital",
+        "value": "Al Manar Hospital"
+      },
+      {
+        "title": "Market",
+        "value": "Krishi Market"
+      }
+    ]
+  },
+  {
+    "title": "Comfort Islam Monjil",
+    "detailsLink": "/property/comfort-islam-monjil",
+    "address": "Road # 04, Section: 5, Block: A, Plot No # 18, Kaderabad Housing, Mohammadpur, Dhaka",
+    "location": "Mohammadpur",
+    "mapLink": "https://www.google.com/maps/place/Mohammadpur,+Dhaka",
+    "landArea": "5 Katha, 2 Unit",
+    "floors": "8",
+    "flatSize": "1350 sq.ft.",
+    "type": "Apartment",
+    "status": "Completed",
+    "completionDate": "July 2024",
+    "image": "/assets/img/properties/Islam Monjil/Islam Monzil.jpeg",
+    "description": "Comfort Islam Manzil marked our third standout project on the same road as Kaderabad and Taniabir. This development blends timeless exposed brick architecture with spacious balconies and thoughtfully expanded living areas, creating a modern yet enduring residential experience.",
+    "details": [
+      {
+        "title": "Bedrooms",
+        "value": 3
+      },
+      {
+        "title": "Bathroom",
+        "value": 3
+      },
+      {
+        "title": "Balcony",
+        "value": 2
+      },
+      {
+        "title": "Kitchen",
+        "value": 1
+      },
+      {
+        "title": "Living Room",
+        "value": 1
+      },
+      {
+        "title": "Property Size",
+        "value": "5 Katha"
+      },
+      {
+        "title": "Floor Size",
+        "value": "1350 sq.ft."
+      },
+      {
+        "title": "Garages",
+        "value": 8
+      },
+      {
+        "title": "Year Of Built",
+        "value": 2024
+      },
+      {
+        "title": "Units Left",
+        "value": 0
+      }
+    ],
+    "nearby": [
+      {
+        "title": "Schools",
+        "value": "Mohammadpur Boys School"
+      },
+      {
+        "title": "Hospital",
+        "value": "Al Manar Hospital"
+      },
+      {
+        "title": "Market",
+        "value": "Krishi Market"
+      }
+    ]
   },
   {
     "title": "Comfort Nurjahan Monjil",
     "detailsLink": "/property/comfort-nurjahan-monjil",
-    "address": "208/4, Adorsho Road, Senpara Parbota, Dhaka",
+    "address": "208/4, Adorsho Road, Senpara Parbota, Mirpur, Kafrul, Dhaka",
     "location": "Mirpur",
-    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
-    "landArea": "12.89 Katha (2127 Decimal), 4 Unit",
+    "mapLink": "https://www.google.com/maps/place/Mirpur,+Dhaka",
+    "landArea": "12.89 Katha, 4 Unit",
     "floors": "9",
-    "flatSize": "1350 sq.ft.",
+    "flatSize": "1400 sq.ft.",
     "type": "Apartment",
     "status": "Completed",
-    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img3.jpg"
+    "completionDate": "2025",
+    "image": "/assets/img/properties/Nurjahan Monjil/Comfort-Nurjahan (1).jpg",
+    "description": "Comfort Nurjahan Manzil was one of our first major projects, featuring a semi-condominium style layout. The design includes a long, elegant driveway and our signature elements exposed brickwork and intricately grooved balconies. A key highlight is the expansive rooftop, thoughtfully planned to accommodate a badminton court, community meeting rooms, and versatile open space for residents to enjoy.",
+    "details": [
+      { "title": "Bedrooms", "value": 3 },
+      { "title": "Bathroom", "value": 3 },
+      { "title": "Balcony", "value": 2 },
+      { "title": "Kitchen", "value": 1 },
+      { "title": "Living Room", "value": 1 },
+      { "title": "Property Size", "value": "12.89 Katha" },
+      { "title": "Floor Size", "value": "1400 sq.ft. x 4" },
+      { "title": "Garages", "value": 26 },
+      { "title": "Year Of Built", "value": 2025 },
+      { "title": "Units Left", "value": 0 }
+    ],
+    "nearby": [
+      { "title": "Schools", "value": "Mirpur Adarsha School" },
+      { "title": "Hospital", "value": "Mirpur Hospital" },
+      { "title": "Market", "value": "Mirpur Market" },
+      { "title": "MRT", "value": "Metro Rail station nearby" }
+    ]
   },
   {
-    "title": "Comfort Green Valley",
-    "detailsLink": "/property/comfort-green-valley",
-    "address": "Green Valley, Sector 5, Uttara, Dhaka",
-    "location": "Uttara",
-    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
-    "landArea": "10 Katha",
-    "floors": "12",
-    "flatSize": "1500, 1450 sq.ft.",
+    "title": "Comfort Parents Garden",
+    "detailsLink": "/property/comfort-parents-garden",
+    "address": "64, Free Street School, Kathalbagan, Dhaka-1205",
+    "location": "Kathalbagan",
+    "mapLink": "https://www.google.com/maps/place/Kathalbagan,+Dhaka",
+    "landArea": "11.12 Katha, 5 Unit",
+    "floors": "9",
+    "flatSize": "1275 sq.ft.",
     "type": "Apartment",
-    "status": "Ongoing",
-    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img1.jpg"
-  },
-  {
-    "title": "Comfort Blue Sky",
-    "detailsLink": "/property/comfort-blue-sky",
-    "address": "Blue Sky Avenue, Bashundhara, Dhaka",
-    "location": "Bashundhara",
-    "mapLink": "https://www.google.com/maps/place/Dhaka/@23.7809757,90.337288,12z/data=!3m1!4b1!4m6!3m5!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.804093!4d90.4152376!16zL20vMGZuYjQ?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
-    "landArea": "8 Katha",
-    "floors": "10",
-    "flatSize": "1400, 1350 sq.ft.",
-    "type": "Apartment",
-    "status": "Upcoming",
-    "image": "https://vernex-next-js.vercel.app/assets/img/home3/project-img2.jpg"
+    "status": "Completed",
+    "completionDate": "2025",
+    "image": "/assets/img/properties/Parents Garden/Parents Garden.jpg",
+    "description": "Comfort Parent’s Garden was our second-largest project, designed with five thoughtfully planned 1275 SQFT apartments. Emphasizing natural airflow and light, the building features strategic voids and open spaces. Lush greenery surrounds the structure, complemented by a rooftop walking trail and a beautifully designed meeting room creating a perfect blend of functionality and serenity for modern urban living.",
+    "details": [
+      { "title": "Bedrooms", "value": 3 },
+      { "title": "Bathroom", "value": 3 },
+      { "title": "Balcony", "value": 2 },
+      { "title": "Kitchen", "value": 1 },
+      { "title": "Living Room", "value": 1 },
+      { "title": "Property Size", "value": "11.12 Katha" },
+      { "title": "Floor Size", "value": "1275 sq.ft. x 4" },
+      { "title": "Garages", "value": 26 },
+      { "title": "Year Of Built", "value": 2025 },
+      { "title": "Units Left", "value": 0 }
+    ],
+    "nearby": [
+      { "title": "Schools", "value": "New Model Degree College" },
+      { "title": "Hospital", "value": "Square Hospital, BRB Hospital" },
+      { "title": "Market", "value": "Bashundhara City" },
+      { "title": "MRT", "value": "Metro Rail station nearby" }
+    ]
   }
 ]

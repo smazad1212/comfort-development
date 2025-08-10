@@ -9276,6 +9276,7 @@ header.style-3.two.sticky {
 }
 .property-card .property-img-wrap .property-img img {
   transition: all 0.5s ease-out;
+  object-fit: cover;
 }
 .property-card .property-img-wrap .property-img::after {
   position: absolute;
@@ -11522,11 +11523,21 @@ header.style-3.two.sticky {
     width: 300px;
     height: 300px;
   }
+  .home3-counter-section .single-counter img {
+    width: 260px;
+    height: 260px;
+    object-fit: contain;
+  }
 }
 @media (max-width: 1199px) {
   .home3-counter-section .single-counter {
     width: 256px;
     height: 256px;
+  }
+  .home3-counter-section .single-counter img {
+    width: 220px;
+    height: 220px;
+    object-fit: contain;
   }
 }
 @media (max-width: 991px) {
@@ -19859,7 +19870,7 @@ header.style-3.two.sticky {
   padding: 0;
   margin: 0;
   list-style: none;
-  columns: 2;
+  columns: 3;
 }
 @media (max-width: 576px) {
   .details-content-wrapper ul {
@@ -19918,6 +19929,9 @@ header.style-3.two.sticky {
     padding: 25px 15px;
     border-radius: 20px;
   }
+}
+.property-form-section .single-dropdown.active .current {
+  color: inherit;
 }
 .property-form-section .single-dropdown .nice-select {
   height: 44px;
@@ -22459,7 +22473,7 @@ header.style-3.two.sticky {
   font-weight: 500;
   line-height: 1;
   text-align: end;
-  max-width: 105px;
+  max-width: 200px;
   width: 100%;
 }
 @media (min-width: 1200px) and (max-width: 1399px) {

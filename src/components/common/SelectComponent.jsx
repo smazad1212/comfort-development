@@ -1,8 +1,8 @@
-"use client"
+"use client";
 import React, { useEffect, useRef } from "react";
 import useCustomSelect from "../../customHooks/useCustomSelect";
 
-const SelectComponent = ({ options, placeholder, open, customClass, onSelect }) => {
+const SelectComponent = ({ options, placeholder, open, customClass, onSelect, value }) => {
   const {
     isOpen,
     selectedOption,
@@ -14,20 +14,25 @@ const SelectComponent = ({ options, placeholder, open, customClass, onSelect }) 
 
   const dropdownRef = useRef(null);
 
+  useEffect(() => {
+    // Update selectedOption when the value prop changes
+    if (value === "") {
+      selectOption(null); // Reset the internal state to null
+    } else {
+      selectOption(value); // Synchronize with the parent value
+    }
+  }, [value]);
+
   const handleClickOutside = (event) => {
     if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
-      // Click is outside the dropdown, close the dropdown
       closeDropdown();
     }
   };
 
   useEffect(() => {
     if (isOpen) {
-      // Add event listener when the component mounts
       document.addEventListener("click", handleClickOutside);
     }
-
-    // Remove event listener when the component unmounts
     return () => {
       document.removeEventListener("click", handleClickOutside);
     };
@@ -35,7 +40,7 @@ const SelectComponent = ({ options, placeholder, open, customClass, onSelect }) 
 
   const handleOptionSelect = (option) => {
     selectOption(option);
-    openDropdown(); // Open the next dropdown
+    openDropdown();
     if (onSelect) {
       onSelect(option);
     }
