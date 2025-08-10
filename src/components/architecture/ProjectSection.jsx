@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import properties from '@/data/property.json'
+import Image from 'next/image'
 
 const ProjectSection = () => {
   const displayedProjects = properties.slice(0, 3);
@@ -57,7 +58,7 @@ const ProjectSection = () => {
                 <>
                   <div className="col-md-6 order-md-1 order-2 image-animation-container">
                     <div className="project-img image-reveal wcf--image-effect-zoom-in overflow-hidden" data-animation-type="scale">
-                      <img src={project.image} alt="Reveal Animation Image" />
+                      <Image src={project.image} alt={project.title} width={690} height={440} />
                     </div>
                   </div>
                   <div className="col-md-6 order-md-2 order-1 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -71,7 +72,7 @@ const ProjectSection = () => {
                   </div>
                   <div className="col-md-6 image-animation-container">
                     <div className="project-img image-reveal wcf--image-effect-zoom-in overflow-hidden" data-animation-type="scale">
-                      <img src={project.image} alt="Reveal Animation Image" />
+                      <Image src={project.image} alt={project.title} width={690} height={440} />
                     </div>
                   </div>
                 </>

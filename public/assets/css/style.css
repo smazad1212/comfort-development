@@ -11259,6 +11259,9 @@ header.style-3.two.sticky {
   background-color: var(--primary-color);
   color: var(--white-color);
 }
+.project-card2 .project-img img {
+  object-fit: cover;
+}
 @media (min-width: 768px) and (max-width: 991px) {
   .project-card2 .project-img img {
     min-height: 300px;

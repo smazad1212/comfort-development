@@ -10381,6 +10381,7 @@ header.style-3 {
   }
   .project-img{
     img{
+      object-fit: cover;
       @include md-device(){
         min-height: 300px;
         object-fit: cover;
