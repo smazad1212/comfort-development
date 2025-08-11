@@ -8607,6 +8607,7 @@ header.style-3 {
       position: relative;
       overflow: hidden;
       display: block;
+      height: 400px;
       transition: all 0.5s ease-out;
       img{
         transition: all 0.5s ease-out;
@@ -20123,6 +20124,7 @@ header.style-3 {
       min-height: 230px;
       object-fit: cover;
       height: 100%;
+      width: 100%;
       @include lg-down-device(){
         max-height: 490px;
         width: 100%;
@@ -20193,12 +20195,36 @@ header.style-3 {
           }
         }
       }
+      .video-top-img{
+        img{
+          border-radius: 0 0 50px 50px;
+          @include sm-down-device(){
+            border-radius: 0 0 35px 35px;
+          }
+        }
+      }
       .video-bottom-img{
         img{
           border-radius: 50px 50px 0 0;
           @include sm-down-device(){
             border-radius: 35px 35px 0 0;
           }
+        }
+      }
+    }
+    .quadruple-image-large {
+      img {
+        max-height: 600px;
+        @include sm-down-device() {
+            max-height: 400px;
+        }
+      }
+    }
+    .quadruple-image-split {
+      img {
+        max-height: 288px;
+        @include sm-down-device() {
+          max-height: 400px;
         }
       }
     }

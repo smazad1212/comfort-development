@@ -12,6 +12,12 @@
     "status": "Upcoming",
     "completionDate": "2028",
     "image": "/assets/img/properties/Vision Emporium/648X933/CDL Vision View 2.png",
+    "allImages1": [
+      "/assets/img/properties/Vision Emporium/648X933/CDL Vision View 1.png",
+      "/assets/img/properties/Vision Emporium/648X933/CDL Vision View 2.png",
+      "/assets/img/properties/Vision Emporium/648X933/CDL Vision 3.png",
+      "/assets/img/properties/Vision Emporium/Comfort Vision Emporium.png"
+    ],
     "description": "Comfort Vision Emporium is our premium flagship project, showcasing our signature exposed brickwork alongside the introduction of elegant fair face design. Thoughtfully planned by our partners at Archetype, the layout applies smart, space optimizing solutions tailored for modern living. The project features abundant green spaces, landscaped gardens, and a beautifully designed rooftop with a dedicated BBQ zone and wooden deck blending aesthetics with functionality.",
     "details": [
       { "title": "Bedrooms", "value": 4 },
@@ -46,6 +52,12 @@
     "status": "Upcoming",
     "completionDate": "2028",
     "image": "/assets/img/properties/ReSaft/Comfort RaSaft de_MUR.png",
+    "allImages": [
+      "/assets/img/properties/ReSaft/648X933/1.png",
+      "/assets/img/properties/ReSaft/648X933/2.png",
+      "/assets/img/properties/ReSaft/648X933/3.png",
+      "/assets/img/properties/ReSaft/648X933/4.png"
+    ],
     "description": "Comfort Vision Emporium is our premium flagship project, showcasing our signature exposed brickwork alongside the introduction of elegant fair face design. Thoughtfully planned by our partners at Archetype, the layout applies smart, space optimizing solutions tailored for modern living. The project features abundant green spaces, landscaped gardens, and a beautifully designed rooftop with a dedicated BBQ zone and wooden deck blending aesthetics with functionality.",
     "details": [
       { "title": "Bedrooms", "value": 4 },
@@ -80,6 +92,9 @@
     "status": "Completed",
     "completionDate": "December 2016",
     "image": "/assets/img/properties/Razia/Comfort-Razia-1-788x1024.jpg",
+    "allImages": [
+      "/assets/img/properties/Razia/Comfort-Razia-1-788x1024.jpg"
+    ],
     "description": "Designed by a dedicated team of architects and engineers, this property combines elegance, structural strength, and comfort. The secured grand entrance with decorative gate, lampposts, and stately lobby sets the tone for refined living. Each apartment is thoughtfully laid out for natural light, cross-ventilation, and privacy. Spacious bedrooms, stylish bathrooms, and a functional kitchen add everyday comfort. A high-speed, international-standard lift and generously designed staircases ensure ease of access. The living and dining spaces are perfect for family life and entertaining, while well-placed balconies offer a breath of fresh air with every view.",
     "details": [
       {
@@ -155,6 +170,9 @@
     "status": "Completed",
     "completionDate": "July 2021",
     "image": "/assets/img/properties/Taniabir/Comfort - Taniabir.jpg",
+    "allImages": [
+      "/assets/img/properties/Taniabir/Comfort - Taniabir.jpg"
+    ],
     "description": "Comfort Taniabir is nestled in the heart of Mohammadpur’s Kaderabad area, offering the perfect blend of peaceful living and urban convenience. Thoughtfully designed as a compact yet elegant apartment complex, it provides all the essential amenities in a space sized to perfection. The project ensures ample natural light and ventilation, creating a refreshing environment for modern families. With a wide connecting road offering easy access to both Dhanmondi and central Mohammadpur, residents enjoy unmatched connectivity without sacrificing tranquility. Comfort Taniabir is ideal for those seeking smart, stylish living in a well-connected neighborhood.",
     "details": [
       {
@@ -211,6 +229,14 @@
         "title": "Market",
         "value": "Krishi Market"
       }
+    ],
+    "attachments": [
+      {
+        "name": "Brochure",
+        "type": "PDF",
+        "link": "/assets/attachments/Taniabir/Comfort Taniabir - Brochure.pdf",
+        "fileName": "Taniabir - Brochure.pdf"
+      }
     ]
   },
   {
@@ -226,6 +252,9 @@
     "status": "Completed",
     "completionDate": "December 2018",
     "image": "/assets/img/properties/Shahjahan Monjil/Comfort Shahjhan monzil.jpg",
+    "allImages": [
+      "/assets/img/properties/Shahjahan Monjil/Comfort Shahjhan monzil.jpg"
+    ],
     "description": "Comfort Shahajahan Manzil, our third project in the vibrant Kaderabad area of Mohammadpur, builds on the success of Comfort Taniabir with a bold, modern design. Inspired by Feng Shui principles, the building is thoughtfully crafted to ensure abundant natural light and airflow across every floor. Each apartment is designed with family-centric standards in mind, blending functionality with comfort to suit the lifestyle of the local community. Located in a well-connected neighborhood with easy access to Dhanmondi and Mohammadpur, Comfort Shahajahan Manzil offers a contemporary living experience rooted in balance, harmony, and thoughtful detail.",
     "details": [
       {
@@ -282,6 +311,14 @@
         "title": "Market",
         "value": "Krishi Market"
       }
+    ],
+    "attachments": [
+      {
+        "name": "Brochure",
+        "type": "PDF",
+        "link": "/assets/attachments/Shahjahan/comfort shahjahan blueprint - Brochure.pdf",
+        "fileName": "Shahjahan Manjil - Brochure.pdf"
+      }
     ]
   },
   {
@@ -297,6 +334,9 @@
     "status": "Completed",
     "completionDate": "July 2024",
     "image": "/assets/img/properties/Islam Monjil/Islam Monzil.jpeg",
+    "allImages": [
+      "/assets/img/properties/Islam Monjil/Islam Monzil.jpeg"
+    ],
     "description": "Comfort Islam Manzil marked our third standout project on the same road as Kaderabad and Taniabir. This development blends timeless exposed brick architecture with spacious balconies and thoughtfully expanded living areas, creating a modern yet enduring residential experience.",
     "details": [
       {
@@ -368,6 +408,9 @@
     "status": "Completed",
     "completionDate": "2025",
     "image": "/assets/img/properties/Nurjahan Monjil/Comfort-Nurjahan (1).jpg",
+    "allImages": [
+      "/assets/img/properties/Nurjahan Monjil/Comfort-Nurjahan (1).jpg"
+    ],
     "description": "Comfort Nurjahan Manzil was one of our first major projects, featuring a semi-condominium style layout. The design includes a long, elegant driveway and our signature elements exposed brickwork and intricately grooved balconies. A key highlight is the expansive rooftop, thoughtfully planned to accommodate a badminton court, community meeting rooms, and versatile open space for residents to enjoy.",
     "details": [
       { "title": "Bedrooms", "value": 3 },
@@ -386,6 +429,14 @@
       { "title": "Hospital", "value": "Mirpur Hospital" },
       { "title": "Market", "value": "Mirpur Market" },
       { "title": "MRT", "value": "Metro Rail station nearby" }
+    ],
+    "attachments": [
+      {
+        "name": "Brochure",
+        "type": "PDF",
+        "link": "/assets/attachments/Nurjahan Manjil/Nurjahan Manjil - Brochure.pdf",
+        "fileName": "Nurjahan Manjil - Brochure.pdf"
+      }
     ]
   },
   {
@@ -401,6 +452,10 @@
     "status": "Completed",
     "completionDate": "2025",
     "image": "/assets/img/properties/Parents Garden/Parents Garden.jpg",
+    "allImages": [
+      "/assets/img/properties/Parents Garden/Parents Garden.jpg",
+      "/assets/img/properties/Parents Garden/top view - Parents garden.jpg"
+    ],
     "description": "Comfort Parent’s Garden was our second-largest project, designed with five thoughtfully planned 1275 SQFT apartments. Emphasizing natural airflow and light, the building features strategic voids and open spaces. Lush greenery surrounds the structure, complemented by a rooftop walking trail and a beautifully designed meeting room creating a perfect blend of functionality and serenity for modern urban living.",
     "details": [
       { "title": "Bedrooms", "value": 3 },
@@ -419,6 +474,14 @@
       { "title": "Hospital", "value": "Square Hospital, BRB Hospital" },
       { "title": "Market", "value": "Bashundhara City" },
       { "title": "MRT", "value": "Metro Rail station nearby" }
+    ],
+    "attachments": [
+      {
+        "name": "Brochure",
+        "type": "PDF",
+        "link": "/assets/attachments/Parents Garden/Comfort parents garden - Brochure.pdf",
+        "fileName": "Parents Garden - Brochure.pdf"
+      }
     ]
   }
 ]
