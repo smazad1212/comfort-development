@@ -10550,7 +10550,7 @@ header.style-3.two.sticky {
 .home2-scroll-text-section .scroll-text {
   flex-shrink: 0;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-around;
   gap: 25px;
   min-width: 100%;
@@ -10570,6 +10570,8 @@ header.style-3.two.sticky {
 }
 .home2-scroll-text-section .scroll-text svg {
   fill: var(--white-color);
+  height: 30px;
+  width: auto;
 }
 @keyframes scroll-x {
   from {
