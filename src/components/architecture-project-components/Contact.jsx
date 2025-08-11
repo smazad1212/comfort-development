@@ -42,7 +42,7 @@ const Contact = () => {
                           </div>
                           <div className="content">
                             <span>To Send Mail</span>
-                            <h6><a href="mailto:example@gmail.com">example@gmail.com</a></h6>
+                            <h6><a href="mailto:info@cgc-bd.com">info@cgc-bd.com</a></h6>
                           </div>
                         </li>
                       </ul>

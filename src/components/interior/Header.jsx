@@ -146,7 +146,7 @@ const Header = () => {
                                 </div>
                                 <div className="content">
                                     <span>SAY HELLO</span>
-                                    <h6><Link href="mailto:info@example.com">info@example.com</Link></h6>
+                                    <h6><Link href="mailto:info@cgc-bd.com">info@cgc-bd.com</Link></h6>
                                 </div>
                             </div>
                         </li>

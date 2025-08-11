@@ -46,7 +46,7 @@ const page = () => {
                                             </div>
                                             <div className="content">
                                                 <span>To Send Mail</span>
-                                                <h6><Link href="mailto:example@gmail.com">example@gmail.com</Link></h6>
+                                                <h6><Link href="mailto:info@cgc-bd.com">info@cgc-bd.com</Link></h6>
                                             </div>
                                         </li>
                                     </ul>

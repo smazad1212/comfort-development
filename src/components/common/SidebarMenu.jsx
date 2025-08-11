@@ -84,7 +84,9 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </div>
                                                 <div className="content">
                                                     <span>CALL ANY TIME</span>
-                                                    <h6><Link href="tel:29658718617">2-965-871-8617</Link></h6>
+                                                    <h6><Link href="tel:+8801711828767">+8801711828767</Link></h6>
+                                                    <h6><Link href="tel:+8801716857411">+8801716857411</Link></h6>
+                                                    <h6><Link href="tel:+880258154076">+880258154076</Link></h6>
                                                 </div>
                                             </div>
                                             <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -117,7 +119,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </div>
                                                 <div className="content">
                                                     <span>SAY HELLO</span>
-                                                    <h6><Link href="mailto:info@example.com">info@example.com</Link></h6>
+                                                    <h6><Link href="mailto:info@cgc-bd.com">info@cgc-bd.com</Link></h6>
                                                 </div>
                                             </div>
                                         </li>
