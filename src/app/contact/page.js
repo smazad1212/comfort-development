@@ -1,5 +1,4 @@
 import Breadcrum from '@/components/common/Breadcrum'
-import SelectComponent from '@/components/common/SelectComponent'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
 import React from 'react'
 import Link from 'next/link'
@@ -7,7 +6,7 @@ import Link from 'next/link'
 const page = () => {
     return (
         <>
-            <Breadcrum content='Any Question Wit Us' pageTitle={'Contact'} pagename={'Contact'} />
+            <Breadcrum content='Any Questions?' pageTitle={'Contact'} pagename={'Contact'} />
             <div className="home6-contact-section pt-120 mb-120">
                 <div className="container">
                     <div className="contact-wrapper">
@@ -54,50 +53,34 @@ const page = () => {
                             </div>
                             <div className="col-lg-7 wow animate fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div className="contact-form-wrap">
-                                    <form>
+                                    <form id="contactForm">
                                         <div className="row g-4">
                                             <div className="col-md-12">
                                                 <div className="form-inner">
                                                     <label>Full Name *</label>
-                                                    <input type="text" />
+                                                    <input type="text" name="name" required />
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
                                                 <div className="form-inner">
                                                     <label>Email *</label>
-                                                    <input type="email" />
+                                                    <input type="email" name="email" required />
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
                                                 <div className="form-inner">
                                                     <label>Phone *</label>
-                                                    <input type="text" />
-                                                </div>
-                                            </div>
-                                            <div className="col-md-12">
-                                                <div className="form-inner">
-                                                    <label>Service Type</label>
-                                                    <SelectComponent options={["Conceptual Design","Project Planning","Site Analysis"]} placeholder="Site Analysis"/>
-                                                    
+                                                    <input type="text" name="phone" required />
                                                 </div>
                                             </div>
                                             <div className="col-md-12">
                                                 <div className="form-inner">
                                                     <label>Message *</label>
-                                                    <textarea defaultValue={""} />
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-12">
-                                                <div className="form-inner2">
-                                                    <div className="form-check">
-                                                        <input className="form-check-input" type="checkbox" defaultValue id="contactCheck" />
-                                                        <label className="form-check-label" htmlFor="contactCheck">
-                                                            I have read &amp; accepted Terms &amp; Conditions.
-                                                        </label>
-                                                    </div>
+                                                    <textarea name="message" required />
                                                 </div>
                                             </div>
                                         </div>
+                                        <div id="formNotification" style={{marginTop:10}}></div>
                                         <button type="submit" className="primary-btn2">
                                             <span>
                                                 Submit Now
@@ -107,6 +90,34 @@ const page = () => {
                                             </span>
                                         </button>
                                     </form>
+                                    <script dangerouslySetInnerHTML={{__html:`
+                                        document.addEventListener('DOMContentLoaded', function() {
+                                            var form = document.getElementById('contactForm');
+                                            var notification = document.getElementById('formNotification');
+                                            if(form) {
+                                                form.addEventListener('submit', async function(e) {
+                                                    e.preventDefault();
+                                                    notification.innerHTML = '';
+                                                    var formData = new FormData(form);
+                                                    try {
+                                                        const res = await fetch('/api/contact', {
+                                                            method: 'POST',
+                                                            body: formData
+                                                        });
+                                                        const data = await res.json();
+                                                        if(data.success) {
+                                                            notification.innerHTML = '<span style="color:green">Message sent successfully!</span>';
+                                                            form.reset();
+                                                        } else {
+                                                            notification.innerHTML = '<span style="color:red">Failed to send message.</span>';
+                                                        }
+                                                    } catch (err) {
+                                                        notification.innerHTML = '<span style="color:red">Failed to send message.</span>';
+                                                    }
+                                                });
+                                            }
+                                        });
+                                    `}} />
                                 </div>
                             </div>
                         </div>

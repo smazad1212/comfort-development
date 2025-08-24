@@ -13,6 +13,12 @@
     },
     {
         "id": "3",
+        "label": "CLIENTS",
+        "link": "/clients",
+        "icon": true
+    },
+    {
+        "id": "4",
         "icon": true,
         "label": "PROPERTIES",
         "link": "/property"

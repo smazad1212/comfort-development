@@ -86,7 +86,7 @@ const ProcessSection = () => {
                                                         </g>
                                                     </svg>
                                                     <h4>Pre-Design <br /> Discovery Phase</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                                 </div>
                                                 <div className="process-img">
                                                     <img src="assets/img/home6/process-img1.png" alt="" />
@@ -108,7 +108,7 @@ const ProcessSection = () => {
                                                         </g>
                                                     </svg>
                                                     <h4>Conceptual <br /> Design</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                                 </div>
                                                 <div className="process-img">
                                                     <img src="assets/img/home6/process-img2.png" alt="" />
@@ -129,7 +129,7 @@ const ProcessSection = () => {
                                                         </g>
                                                     </svg>
                                                     <h4>Construction <br /> Administration</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                                 </div>
                                                 <div className="process-img">
                                                     <img src="assets/img/home6/process-img3.png" alt="" />
@@ -150,7 +150,7 @@ const ProcessSection = () => {
                                                         </g>
                                                     </svg>
                                                     <h4>Design <br /> Development</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                                 </div>
                                                 <div className="process-img">
                                                     <img src="assets/img/home6/process-img4.png" alt="" />

@@ -90,7 +90,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Space Planning</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
@@ -112,7 +112,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Lighting Design</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
@@ -134,7 +134,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Kitchen Interior</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
@@ -165,7 +165,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Office Interior</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
@@ -196,7 +196,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Space Planning</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
@@ -218,7 +218,7 @@ const ServiceSection = () => {
                         </svg>
                       </div>
                       <h3><Link href="/services/service-details">Lighting Design</Link></h3>
-                      <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                      <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                       <Link href="/services/service-details" className="more-btn">LEARN MORE</Link>
                       <Link href="/services/service-details" className="arrow">
                         <svg width={80} height={80} viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">

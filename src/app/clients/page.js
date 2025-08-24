@@ -22,7 +22,7 @@ const circleIcon = (
 const LandOwners = () => {
   return (
     <>
-      <Breadcrum content='How We Work' pageTitle={'Land Owners'} pagename={'Land Owners'} />
+      <Breadcrum content='How We Work' pageTitle={'Clients'} pagename={'Clients'} />
       <div className="service-details-page pt-120 mb-20">
         <div className="container">
           <div className="row">
@@ -31,7 +31,7 @@ const LandOwners = () => {
               {/*  <img src="https://vernex-next-js.vercel.app/assets/img/inner-pages/service-details-thumb-img.jpg" alt="" />*/}
               {/*</div>*/}
               <div className="title-area mb-60">
-                <h2>Build <span>With Comfort</span></h2>
+                <h2>A Home <span>That Truly Understands You</span></h2>
                 {/*<ul className="tag-list">*/}
                 {/*  <li>Family Homes</li>*/}
                 {/*  <li>Custom Homes</li>*/}
@@ -42,43 +42,18 @@ const LandOwners = () => {
           <div className="row g-lg-4 gy-5 mb-20">
             <div className="col-lg-12 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
               <div className="details-content-wrapper">
-                <p>At Comfort Development Ltd, we believe landowners are not just participants in our projects, they are our most valued partners. Together, we shape skylines and redefine urban living, one thoughtful development at a time. With every joint venture, we commit to delivering apartments that combine design excellence, functional comfort, and enduring value.
+                <p>
+                  At Comfort Development LTD, we don’t just build apartments, we craft homes designed around your everyday life, your aspirations, and your future. Every detail, from layout to finish, is tailored to ensure functionality, comfort, and long-term value for modern homeowners.
                 </p>
                 <span className="line-break" />
                 <p>
-                  Our promise is simple: transparency, timely delivery, and a shared vision of success. We don’t just construct buildings, we build trust, long-term relationships, and lasting impact. With careful financial planning and a deep understanding of the market, we ensure our partners never have to wait for sales to see progress.
+                  Our promise is more than just structure, it's peace of mind. We pride ourselves on timely handovers, fair pricing, and zero hidden conditions. With thoughtful design, durable materials, and careful planning, we create spaces where families thrive and memories are made.
                 </p>
-                <span className="line-break" />
-                <ul>
-                  <li>
-                    {circleIcon}
-                    Site Assessment
-                  </li>
-                  <li>
-                    {circleIcon}
-                    Design Planning
-                  </li>
-                  <li>
-                    {circleIcon}
-                    Foundation Work
-                  </li>
-                  <li>
-                    {circleIcon}
-                    Home Remodeling
-                  </li>
-                  <li>
-                    {circleIcon}
-                    Flooring Upgrades
-                  </li>
-                  <li>
-                    {circleIcon}
-                    Smart Integration
-                  </li>
-                </ul>
                 <span className="line-break" />
                 <p>
-                  Whether you’re envisioning a modern apartment block or a landmark residential complex, Comfort turns your land into a legacy one that speaks of reliability, integrity, and architectural distinction.
+                  Whether you're buying your first apartment or upgrading for more space, we’re here to make your journey easy, transparent, and rewarding. With Comfort, you're not just investing in real estate you're investing in a lifestyle of trust, convenience, and lasting quality.
                 </p>
+                <span className="line-break" />
               </div>
             </div>
           </div>

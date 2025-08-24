@@ -28,7 +28,7 @@ const FaqSection = () => {
                       </div>
                       <div id="faqcollapseOne" className="accordion-collapse collapse show" aria-labelledby="faqheadingOne" data-bs-parent="#accordionGeneral">
                         <div className="accordion-body">
-                          Conduct a thoroug need effortless assessment the understand your current marketing.
+                          Conduct a thorough need effortless assessment the understand your current marketing.
                         </div>
                       </div>
                     </div>
@@ -46,7 +46,7 @@ const FaqSection = () => {
                       </div>
                       <div id="faqcollapseTwo" className="accordion-collapse collapse" aria-labelledby="faqheadingTwo" data-bs-parent="#accordionGeneral">
                         <div className="accordion-body">
-                          Conduct a thoroug need effortless assessment the understand your current marketing.
+                          Conduct a thorough need effortless assessment the understand your current marketing.
                         </div>
                       </div>
                     </div>
@@ -64,7 +64,7 @@ const FaqSection = () => {
                       </div>
                       <div id="faqcollapseThree" className="accordion-collapse collapse" aria-labelledby="faqheadingThree" data-bs-parent="#accordionGeneral">
                         <div className="accordion-body">
-                          Conduct a thoroug need effortless assessment the understand your current marketing.
+                          Conduct a thorough need effortless assessment the understand your current marketing.
                         </div>
                       </div>
                     </div>
@@ -82,7 +82,7 @@ const FaqSection = () => {
                       </div>
                       <div id="faqcollapseFour" className="accordion-collapse collapse" aria-labelledby="faqheadingFour" data-bs-parent="#accordionGeneral">
                         <div className="accordion-body">
-                          Conduct a thoroug need effortless assessment the understand your current marketing.
+                          Conduct a thorough need effortless assessment the understand your current marketing.
                         </div>
                       </div>
                     </div>

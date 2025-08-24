@@ -19,7 +19,7 @@ const ProcessSection = () => {
                                         <div className="single-process">
                                             <span>Step 01</span>
                                             <h4>Planning &amp; Design</h4>
-                                            <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                            <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                         </div>
                                         <svg className="arrow" width={8} height={56} viewBox="0 0 8 56" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1.33333 3C1.33333 4.47276 2.52724 5.66667 4 5.66667C5.47276 5.66667 6.66667 4.47276 6.66667 3C6.66667 1.52724 5.47276 0.333333 4 0.333333C2.52724 0.333333 1.33333 1.52724 1.33333 3ZM3.64645 55.3536C3.84171 55.5488 4.15829 55.5488 4.35355 55.3536L7.53553 52.1716C7.7308 51.9763 7.7308 51.6597 7.53553 51.4645C7.34027 51.2692 7.02369 51.2692 6.82843 51.4645L4 54.2929L1.17157 51.4645C0.976311 51.2692 0.659728 51.2692 0.464466 51.4645C0.269204 51.6597 0.269204 51.9763 0.464466 52.1716L3.64645 55.3536ZM3.5 3V55H4.5V3H3.5Z" />
@@ -29,7 +29,7 @@ const ProcessSection = () => {
                                         <div className="single-process">
                                             <span>Step 02</span>
                                             <h4>Hiring Professionals</h4>
-                                            <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                            <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                         </div>
                                         <svg className="arrow" width={8} height={56} viewBox="0 0 8 56" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1.33333 3C1.33333 4.47276 2.52724 5.66667 4 5.66667C5.47276 5.66667 6.66667 4.47276 6.66667 3C6.66667 1.52724 5.47276 0.333333 4 0.333333C2.52724 0.333333 1.33333 1.52724 1.33333 3ZM3.64645 55.3536C3.84171 55.5488 4.15829 55.5488 4.35355 55.3536L7.53553 52.1716C7.7308 51.9763 7.7308 51.6597 7.53553 51.4645C7.34027 51.2692 7.02369 51.2692 6.82843 51.4645L4 54.2929L1.17157 51.4645C0.976311 51.2692 0.659728 51.2692 0.464466 51.4645C0.269204 51.6597 0.269204 51.9763 0.464466 52.1716L3.64645 55.3536ZM3.5 3V55H4.5V3H3.5Z" />
@@ -39,7 +39,7 @@ const ProcessSection = () => {
                                         <div className="single-process">
                                             <span>Step 03</span>
                                             <h4>Finishes &amp; Fixtures</h4>
-                                            <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                            <p>Conduct a thorough need effortless assessment the understand your current marketing.</p>
                                         </div>
                                     </li>
                                 </ul>

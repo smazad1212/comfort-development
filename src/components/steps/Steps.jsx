@@ -49,11 +49,11 @@ const Steps = () => {
             <div className="section-title three text-center">
               <span>How We Work</span>
               <h2>Our Proven Methodology</h2>
-              <p>Sed nisl eros, condimentum nec risus sit amet, finibus conguese.Fusen fringilla est libero sed tempus urna feugiat eu. Curabitur eu feugiat ligu Suspendisse.</p>
+              <p>With over 30 years of experience in multiple industries and a decade in real estate development, we bring a wealth of knowledge, strategic planning, and reliability to every project.</p>
             </div>
           </div>
         </div>
-        <div className="process-slider-wtrap">
+        <div className="process-slider-wrap">
           <div className="row">
             <div className="col-lg-12">
               <Swiper {...settings} className="swiper home3-process-slider">
@@ -72,7 +72,7 @@ const Steps = () => {
                           </svg>
                         </div>
                         <h4>Pre-Design <br /> Discovery Phase</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <p>Analyze goals and gather requirements to ensure a clear understanding of the client's vision.</p>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -91,7 +91,7 @@ const Steps = () => {
                           </svg>
                         </div>
                         <h4>Conceptual <br /> Design</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <p>Create initial design concepts and layouts to visualize the project and align with client expectations.</p>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -109,7 +109,7 @@ const Steps = () => {
                           </svg>
                         </div>
                         <h4>Construction <br /> Administration</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <p>Prepare detailed drawings and specifications to guide the construction process.</p>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -127,7 +127,7 @@ const Steps = () => {
                           </svg>
                         </div>
                         <h4>Design <br /> Development</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <p>Refine the design, finalize materials, and integrate technical details to ensure a cohesive plan.</p>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -145,7 +145,7 @@ const Steps = () => {
                           </svg>
                         </div>
                         <h4>Construction <br /> Administration</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <p>Oversee the construction process, ensuring the project adheres to the design and meets quality standards.</p>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -162,8 +162,8 @@ const Steps = () => {
                             </g>
                           </svg>
                         </div>
-                        <h4>Design <br /> Development</h4>
-                        <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                        <h4>Project <br /> Completion</h4>
+                        <p>Ensure the project is completed to the client's satisfaction, delivering a final product that meets expectations.</p>
                       </div>
                     </div>
                   </SwiperSlide>

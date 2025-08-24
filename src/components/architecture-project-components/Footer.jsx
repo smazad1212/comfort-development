@@ -112,8 +112,10 @@ const Footer = () => {
                                 </div>
                                 <div className="menu-container">
                                   <ul className="widget-list">
-                                    <li><Link href="/services">Services</Link></li>
-                                    <li><Link href="/property">Property</Link></li>
+                                    <li><Link href="/">Home</Link></li>
+                                    <li><Link href="/land-owners">Land Owners</Link></li>
+                                    <li><Link href="/clients">Clients</Link></li>
+                                    <li><Link href="/property">Properties</Link></li>
                                     <li><Link href="/contact">Contact</Link></li>
                                   </ul>
                                 </div>
