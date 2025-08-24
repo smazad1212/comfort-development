@@ -20,6 +20,7 @@ import Script from 'next/script';
 import AnimateCursor from "@/components/common/AnimateCursor";
 import Header from '@/components/header/Header'
 import Footer from '@/components/architecture-project-components/Footer'
+import { Analytics } from '@vercel/analytics/next';
 
 export default function RootLayout({ children }) {
   const pathname = usePathname(); // Get the current pathname
@@ -343,6 +344,7 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
