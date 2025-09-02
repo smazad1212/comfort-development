@@ -47,7 +47,7 @@ const ProjectSection = () => {
                     <Gallery/>
                     <div className="row">
                         <div className="col-lg-12 d-flex justify-content-center">
-                            <Link href="/project" className="primary-btn3 bounce_up">
+                            <Link href="/property" className="primary-btn3 bounce_up">
                                 <span>
                                     View All Project
                                     <svg viewBox="0 0 13 20">

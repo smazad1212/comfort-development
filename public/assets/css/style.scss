@@ -20352,7 +20352,7 @@ header.style-3 {
       .single-item{
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: flex-start;
         gap: 15px;
         padding: 28px 30px;
         // border: 0.5px solid rgba( var(--primary-color-opc), 0.08);
@@ -20374,7 +20374,7 @@ header.style-3 {
           display: flex;
           align-items: center;
           gap: 8px;
-          max-width: 150px;
+          max-width: 160px;
           width: 100%;
           @include lg-device(){
             max-width: 125px;
@@ -20433,20 +20433,12 @@ header.style-3 {
           font-size: 16px;
           font-weight: 500;
           line-height: 1;
-          text-align: end;
+          margin-left: 40px;
           max-width: 200px;
           width: 100%;
-          @include xl-device(){
+          @include xl-down-device(){
             font-size: 14px;
-          }
-          @include lg-device(){
-            font-size: 13px;
-          }
-          @include md-device(){
-            font-size: 14px;
-          }
-          @include sm-down-device(){
-            font-size: 14px;
+            margin-left: 20px;
           }
         }
       }

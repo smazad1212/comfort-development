@@ -83,7 +83,7 @@ const ProjectSection = () => {
         {properties.length > 3 && (
           <div className="row pt-80 bounce_up">
             <div className="col-lg-12 d-flex justify-content-center">
-              <Link href="/project" className="primary-btn2">
+              <Link href="/property" className="primary-btn2">
                 <span>
                   View More Project
                   <svg viewBox="0 0 13 20">
