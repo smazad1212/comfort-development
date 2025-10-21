@@ -21,6 +21,7 @@ import AnimateCursor from "@/components/common/AnimateCursor";
 import Header from '@/components/header/Header'
 import Footer from '@/components/architecture-project-components/Footer'
 import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export default function RootLayout({ children }) {
   const pathname = usePathname(); // Get the current pathname
@@ -345,6 +346,7 @@ export default function RootLayout({ children }) {
         {children}
         <Footer />
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
